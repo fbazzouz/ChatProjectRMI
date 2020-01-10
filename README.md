@@ -9,10 +9,18 @@ Réalisé Par :
 - Lancer 2 clients Interface avec la commande *mvn clean javafx:run* sur le dossier du module client /module client 
 # Le résultat
 - Entrer le pseudo sur les deux interfaces :
+---
 ![Image 1](images/1.JPG)
+---
 - On remarque que les deux pseudo rentrés sont dans la liste des clients :
+---
 ![Image 2](images/2.JPG)
+---
 - On selection le client qu'on veut adresser un message et on clique sur send soit sur entrer pour envoyer le message :
+---
 ![Image 3](images/3.JPG)
+---
 - quand on clique sur disconnect le client est automatiquement retirer de la liste des clients :
+---
 ![Image 4](images/4.jpg)
+---
