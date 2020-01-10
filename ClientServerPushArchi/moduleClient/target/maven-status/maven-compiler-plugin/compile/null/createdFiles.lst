@@ -1,0 +1,4 @@
+client\Client.class
+client\ReceiverImpl.class
+client\Controllers\ChatController.class
+client\ClientFX.class
